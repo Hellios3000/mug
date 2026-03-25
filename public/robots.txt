@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mycup.com.ua/sitemap.xml
